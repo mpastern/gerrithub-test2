@@ -1,0 +1,55 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a6b29fe_f64515b4",
+        "filename": "Hello.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 5,
+      "author": {
+        "id": 1002563
+      },
+      "writtenOn": "2014-10-07T11:33:48Z",
+      "side": 1,
+      "message": "wrong!",
+      "revId": "5b3c41a3548f0602a413375d049140c9cc36ae94",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a6b29fe_561209b5",
+        "filename": "Hello.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 6,
+      "author": {
+        "id": 1002563
+      },
+      "writtenOn": "2014-10-07T11:33:48Z",
+      "side": 1,
+      "message": "ok!",
+      "revId": "5b3c41a3548f0602a413375d049140c9cc36ae94",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "7a6b29fe_36178da5",
+        "filename": "Hello.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 7,
+      "author": {
+        "id": 1002563
+      },
+      "writtenOn": "2014-10-07T11:33:48Z",
+      "side": 1,
+      "message": "maybe!",
+      "revId": "5b3c41a3548f0602a413375d049140c9cc36ae94",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
