@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "7a6b29fe_a781a24c",
+        "filename": "Hello.java",
+        "patchSetId": 1
+      },
+      "lineNbr": 8,
+      "author": {
+        "id": 1002563
+      },
+      "writtenOn": "2014-10-12T11:01:46Z",
+      "side": 1,
+      "message": "bad!",
+      "revId": "296d8747c8109054ad39d7bec3ae733f75a1d52e",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
